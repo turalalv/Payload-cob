@@ -1,7 +1,7 @@
 What is Payload Automation?
 =================
 
-Now available as a PyPi package: https://pypi.org/project/payload-automation/
+Now available as a PyPi package: https://pypi.org/project/payload-cob
 
 Payload Automation is a collection of Python classes to serve as a bridge between Sleep and Python which can be used to help automate payload development, testing, opsec checking, and deployment with Cobalt Strike or anything else you can come up with.
 
