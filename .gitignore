@@ -1,0 +1,6 @@
+*.pyc
+.vscode
+Pipfile
+.DS_Store
+dist/
+payload_automation.egg-info/
